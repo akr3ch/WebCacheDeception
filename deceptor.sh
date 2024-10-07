@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##### Advanced Web Cache Deception exploitation script ####
-## coder: akrech				#
+## coder: akrech
 ## github: https://github.com/akr3ch
 ## website: akr3ch.xyz
 ## twitter: akr3ch
