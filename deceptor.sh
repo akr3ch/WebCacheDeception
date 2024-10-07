@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ##### Advanced Web Cache Deception exploitation script ####
-## coder: akrech				##
-## github: https://github.com/akr3ch		##
-## website: akr3ch.xyz   			##
-## twitter: akr3ch				##
-##################################################
+## coder: akrech				#
+## github: https://github.com/akr3ch
+## website: akr3ch.xyz
+## twitter: akr3ch
+###########################################################
 
 ### Color codes ###
 bold='\e[1m'
